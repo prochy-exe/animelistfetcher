@@ -47,7 +47,7 @@ If you encounter any issues, feel free to open a new issue. If you have any new 
 
 ## Version History
 * [1.0.0](https://github.com/prochy-exe/animelistfetcher/releases/tag/v1.0.0)
-    * [Initial Release](https://github.com/prochy-exe/animelistfetcher/commit/5c838f646c66de83365f6a0e897d317e89d67e4f)
+    * [Initial Release](https://github.com/prochy-exe/animelistfetcher/commit/06b2666c3f0c938bd4ee66d8b7019a7f4c0377cf)
 
 ## Acknowledgments
 
