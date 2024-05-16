@@ -46,6 +46,8 @@ import animelistfetcher
 If you encounter any issues, feel free to open a new issue. If you have any new ideas or fixes, please open a pull request, they are more than welcome!
 
 ## Version History
+* [1.1.0](https://github.com/prochy-exe/animelistfetcher/releases/tag/v1.1.0)
+    * [import libraries when necessary](https://github.com/prochy-exe/animelistfetcher/commit/1367260f28f0d100f71d492d0ccbe8b44edfcc04)
 * [1.0.0](https://github.com/prochy-exe/animelistfetcher/releases/tag/v1.0.0)
     * [Initial Release](https://github.com/prochy-exe/animelistfetcher/commit/06b2666c3f0c938bd4ee66d8b7019a7f4c0377cf)
 
