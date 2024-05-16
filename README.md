@@ -1,5 +1,4 @@
-# anilist-helper
-
+# animelistfetcher
 A wrapper for [alfetcher](https://github.com/prochy-exe/alfetcher) and [malfetcher](https://github.com/prochy-exe/malfetcher)
 
 ## Description
